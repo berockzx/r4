@@ -1,0 +1,6 @@
+{
+  "id": "spixi.poker",
+  "name": "Spixi Poker",
+  "description": "A 2-player Texas Hold'em light game with IXI payments.",
+  "version": "1.0.0"
+}
